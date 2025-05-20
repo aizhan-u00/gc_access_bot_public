@@ -1,5 +1,5 @@
 # Ignore configuration files with secret data
-# config.py
+config.py
 *.env
 
 # Ignore virtual environments
